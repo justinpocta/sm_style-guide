@@ -1,0 +1,29 @@
+# Design System Specs
+
+## Typography
+Remove 13pt size.
+Review 12pt size.
+14pt Baseline (review issue where button padding on font size causes problems with 32px button goal)
+18pt Medium
+22pt Large
+
+## Margin + Padding
+4px - ignored by AirBnB, used by Atlassian
+8px - ★ Important
+12px - ignored by Github
+16px - ★ Important
+20px
+24px 
+32px
+48px
+64px
+
+## Grid + Layout
+12 column grid
+- 3 breakpoints, responsive grid systems to be determined
+
+## Colors
+Reduce the use of 50 different greys
+
+## Process
+Explore use of change log to keep specs in order, transparency and communication for all.
